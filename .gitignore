@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# CLion IDE files
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Executable files
+*.exe
+*.out
+
+# Object files
+*.obj
+*.o
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+build.ninja
+.ninja_deps
+.ninja_log
