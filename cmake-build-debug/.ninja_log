@@ -1,0 +1,25 @@
+# ninja log v6
+2	386	7613237147442825	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+388	486	7613237151306842	TicTacToe.exe	fd108455d09a8a6e
+3	367	7613239553337365	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+368	466	7613239556983785	TicTacToe.exe	fd108455d09a8a6e
+4	368	7613241359973219	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+369	465	7613241363621315	TicTacToe.exe	fd108455d09a8a6e
+4	362	7613244034034022	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+363	458	7613244037621854	TicTacToe.exe	fd108455d09a8a6e
+6	378	7615922817079266	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+378	500	7615922820797402	TicTacToe.exe	fd108455d09a8a6e
+4	339	7616040974507483	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+4	354	7616042278725548	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+3	359	7616043576395996	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+360	457	7616043579963230	TicTacToe.exe	fd108455d09a8a6e
+3	332	7616046438287474	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+333	432	7616046441585606	TicTacToe.exe	fd108455d09a8a6e
+5	375	7616047447136996	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+376	487	7616047450851199	TicTacToe.exe	fd108455d09a8a6e
+3	372	7616048292797710	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+373	481	7616048296490093	TicTacToe.exe	fd108455d09a8a6e
+4	337	7616049140808688	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+337	433	7616049144141628	TicTacToe.exe	fd108455d09a8a6e
+4	333	7616053379793357	CMakeFiles/TicTacToe.dir/src/tictactoe.cpp.obj	b56c6ca78f44fcfe
+334	433	7616053383086463	TicTacToe.exe	fd108455d09a8a6e
