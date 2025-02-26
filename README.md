@@ -11,4 +11,13 @@ A simple tic-tac-toe game implemented in C++.
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/lynxforge/tic-tac-toe.git
-cd tic-tac-toe
+cd tictactoe
+```
+### **2. Compile the C++ code with GCC**
+```bash
+g++ tictactoe.cpp -o tictactoe
+```
+### **3. Run the Game**
+```bash
+./tictactoe   # On Linux/Mac
+tictactoe.exe  # On Windows (if compiled with MinGW)
